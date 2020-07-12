@@ -1,2 +1,4 @@
 /exams-project.iml
 /.idea/
+/target/
+/build/
