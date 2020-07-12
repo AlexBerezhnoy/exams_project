@@ -16,7 +16,7 @@ public class SecondTest extends TestBase{
     private AllOwnersPage allOwnersPage = new AllOwnersPage();
     private AddOwnersPage addOwnersPage = new AddOwnersPage();
 
-    private String firstName = "Alex1212";
+    private String firstName = "Alex121122";
     private String lastName = "Cool";
     private String address = "Saint maria str.";
     private String city = "NY";
